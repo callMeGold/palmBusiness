@@ -1,0 +1,6 @@
+framework module Pods_palmBusiness {
+  umbrella header "Pods-palmBusiness-umbrella.h"
+
+  export *
+  module * { export * }
+}
